@@ -1,4 +1,4 @@
-#MLFMM 
+s#MLFMM 
 The difference between **linear classification** and **linear regression** is working with continuous labels instead of binary ones like in [[Linear Classification II - Objective Functions]] and [[Linear Classification]].
 
 A linear regression function is simply a linear function of the feature vectors. i.e:
